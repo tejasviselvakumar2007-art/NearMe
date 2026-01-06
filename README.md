@@ -95,16 +95,16 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-//home page
+home page
 ![alt text](<Screenshot 2026-01-05 201215.png>)
 
-//medical
+medical
 ![alt text](<Screenshot 2026-01-05 195545.png>)
 
-//river
+river
 ![alt text](<Screenshot 2026-01-05 195649.png>)
 
-//sitmas
+sitmas
 ![alt text](<Screenshot 2026-01-05 195623.png>)
 
 ## RESULT
